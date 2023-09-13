@@ -29,10 +29,12 @@
 
 .logo {
     color: #ff7200;
-    font-size: 35px;
+    font-weight: bold;
+    font-size: 40px;
     font-family: arial;
     padding-left: 20px;
     float: left;
+    margin-top: 7px;
     padding-top: 10px;
 }
 
@@ -272,12 +274,6 @@ p {
     padding-top: 15px;
     padding-bottom: 10px;
     text-align: center;
-}
-
-.icon:hover {
-    background-color: #fff;
-    color: #ff7200;
-
 }
 
 .hello {
